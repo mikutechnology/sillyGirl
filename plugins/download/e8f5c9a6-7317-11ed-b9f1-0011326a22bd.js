@@ -33,3 +33,9 @@
  ], function (s) {
     s.reply('欢迎加入mikutechnology，请点击下面链接加入：https://t.me/+nPepFD3hy9E5YTRl')
  })
+
+ s.listen([
+    `github`,
+ ], function (s) {
+    s.reply('主站：https://gitproxy.mikutechnology.ml/\n备站：https://aws.saltedfish.tk/\n镜像站：https://git.mikutechnology.ml/')
+ })
