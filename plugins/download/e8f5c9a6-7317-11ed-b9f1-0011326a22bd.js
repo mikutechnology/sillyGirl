@@ -1,12 +1,12 @@
 /**
  * @title 菜单
  * @on_start true
- * @create_at 2022-11-28 16:52:55
+ * @create_at 2022-12-05 01:02:03
  * @description 小白专用
  * @public false
  * @encrypt false
  * @author mikufans
- * @version v1.0.0
+ * @version v1.0.1
  */
  const s = sender
 
