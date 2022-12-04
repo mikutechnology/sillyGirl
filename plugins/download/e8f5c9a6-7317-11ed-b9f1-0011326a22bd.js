@@ -6,7 +6,7 @@
  * @public false
  * @encrypt false
  * @author mikufans
- * @version v1.0.1
+ * @version v1.0.0
  */
  const s = sender
 
