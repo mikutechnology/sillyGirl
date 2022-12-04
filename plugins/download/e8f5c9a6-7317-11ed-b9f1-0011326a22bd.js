@@ -1,10 +1,7 @@
 /**
  * @title 菜单
- * @rule 菜单
- * @rule elm
- * @rule mt
- * @rule /start
- * @rule github
+ * @origin 
+ * @rule 
  * @on_start true
  * @create_at 2022-12-05 01:02:03
  * @description 小白专用
