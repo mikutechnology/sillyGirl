@@ -1,12 +1,12 @@
 /**
  * @title 菜单
- * @origin 
- * @rule 
+ * @rule 菜单
+ * @origin mikutechnology
  * @on_start true
  * @create_at 2022-12-05 01:02:03
  * @description 小白专用
  * @public false
- * @encrypt false
+ * @encrypt true
  * @author mikufans
  * @version v1.0.2
  */
