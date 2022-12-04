@@ -1,12 +1,17 @@
 /**
  * @title 菜单
+ * @rule 菜单
+ * @rule elm
+ * @rule mt
+ * @rule /start
+ * @rule github
  * @on_start true
  * @create_at 2022-12-05 01:02:03
  * @description 小白专用
  * @public false
  * @encrypt false
  * @author mikufans
- * @version v1.0.1
+ * @version v1.0.2
  */
  const s = sender
 
