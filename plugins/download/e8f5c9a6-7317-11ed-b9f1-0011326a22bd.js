@@ -20,13 +20,13 @@
  s.listen([
      `elm`,
  ], function (s) {
-     s.reply('饿了么cookie获取工具地址\n安卓：https://cloud.lovelyloli.cn/s/nbk8z3\nIOS：请下载Stream自行抓包，不会抓包可私聊群主要教程\n短信面板地址：http://elm.mikufanstechnology.com')
+     s.reply('饿了么cookie获取工具地址\n安卓：https://cloud.lovelyloli.cn/s/oiwm7r\nIOS：请下载Stream自行抓包，不会抓包可私聊群主要教程\n短信面板地址：http://elm.mikufanstechnology.com')
  })
  
  s.listen([
      `mt`,
  ], function (s) {
-     s.reply('美团cookie获取工具地址\n安卓：https://cloud.lovelyloli.cn/s/oiwm7r\nIOS：请下载Stream自行抓包，不会抓包可私聊群主要教程\ncookie提交面板地址：http://mt.mikufanstechnology.com')
+     s.reply('美团cookie获取工具地址\n安卓：https://cloud.lovelyloli.cn/s/nbk8z3\nIOS：请下载Stream自行抓包，不会抓包可私聊群主要教程\ncookie提交面板地址：http://mt.mikufanstechnology.com')
  })
 
  s.listen([
