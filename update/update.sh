@@ -27,7 +27,7 @@ echo "发现新版本，正在停止守护程序..."
 pm2 stop 0
 echo "正在备份当前版本..."
 cd /data/backup/sillyGirl && mkdir $(date +%Y-%m-%d) && cd $(date +%Y-%m-%d) && cp /data/sillyGirl/sillyGirl /data/backup/sillyGirl/$(date +%Y-%m-%d)
-bash /volume1/data/backup/testing.sh
+bash /data/backup/testing.sh
 echo "正在从 $d 下载..."
 curl -o $n $d && chmod 777 $n
 echo "已下载到初始目录，开始转移到运行目录..."
